@@ -5,8 +5,18 @@ public class Main {
 		
 		System.out.println("Holi");
 		System.out.println("Kiara2");
+		
+		System.out.println(sum(6,8));
 
 
+	}
+	
+	public static int sum (int a, int b) {
+		
+		int c= a+b;
+		
+		return c;
+		
 	}
 
 }
